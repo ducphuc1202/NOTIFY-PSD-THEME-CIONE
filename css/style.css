@@ -12,7 +12,7 @@
 .banner {
     max-width: 1540px;
     height: 600px;
-    background-image:url('/image/background.png');
+    background-image:url('image/background.png');
     background-color: #cccccc;
     margin-bottom: 40px;
     background-repeat: no-repeat;
